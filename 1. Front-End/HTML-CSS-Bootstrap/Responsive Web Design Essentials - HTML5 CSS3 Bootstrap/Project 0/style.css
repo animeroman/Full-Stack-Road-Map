@@ -1,0 +1,16 @@
+.box1 {
+    background-color: rgb(115, 42, 163);
+    width: 600px;
+    height: 400px;
+}
+
+.negrs {
+    background-color: rgb(168, 18, 111);
+    width: 400px;
+    height: 400px;
+}
+
+.textnigers {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}

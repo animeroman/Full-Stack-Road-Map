@@ -1,0 +1,84 @@
+.gallery {
+  background-color: $color-grey-light-1;
+  grid-column: full-start / full-end;
+
+  display: grid;
+  // grid-template-columns: repeat(8, 1fr);
+  // grid-template-rows: repeat(7, 5vw);
+  grid-template: repeat(7, 5vw) / repeat(8, 1fr);
+  // prettier-ignore
+  grid-template-areas: "first first    second   second  second     third      fourth     fourth"
+  "first first    second   second  second     third      fourth     fourth"
+  "fifth fifth    second   second  second     eighth     eighth     ninth"
+  "fifth fifth    sixth    sixth   seventh    eighth     eighth     ninth"
+  "fifth fifth    sixth    sixth   thirteenth thirteenth thirteenth ninth"
+  "tenth eleventh eleventh twelfth thirteenth thirteenth thirteenth fourteenth"
+  "tenth eleventh eleventh twelfth thirteenth thirteenth thirteenth fourteenth";
+  grid-gap: 1.5rem;
+  padding: 1.5rem;
+
+  &__item {
+    &--1 {
+      grid-area: first;
+    }
+
+    &--2 {
+      grid-area: second;
+    }
+
+    &--3 {
+      grid-area: third;
+    }
+
+    &--4 {
+      grid-area: fourth;
+    }
+
+    &--5 {
+      grid-area: fifth;
+    }
+
+    &--6 {
+      grid-area: sixth;
+    }
+
+    &--7 {
+      grid-area: seventh;
+    }
+
+    &--8 {
+      grid-area: eighth;
+    }
+
+    &--9 {
+      grid-area: ninth;
+    }
+
+    &--10 {
+      grid-area: tenth;
+    }
+
+    &--11 {
+      grid-area: eleventh;
+    }
+
+    &--12 {
+      grid-area: twelfth;
+    }
+
+    &--13 {
+      grid-area: thirteenth;
+    }
+
+    &--14 {
+      grid-area: fourteenth;
+    }
+  }
+
+  &__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+}
