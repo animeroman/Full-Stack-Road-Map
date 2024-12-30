@@ -1,0 +1,172 @@
+1. **Git (Tools)** git commit -am "Course Finished"
+   Fundamental for version control; easy to learn and essential for collaboration.
+	Course: https://www.udemy.com/course/git-complete
+	Author: Jason Taylor
+
+2. **GitHub/GitLab (Tools)** git push origin finished-course
+   Builds upon Git knowledge; introduces remote repositories and collaborative workflows.
+	Course: https://www.udemy.com/course/github-ultimate
+	Author: Jason Taylor
+
+3. **SCSS (Front-End)** & p { display: block; } // Display to the course is Finished 
+   Extends CSS capabilities with variables and nesting; simplifies styling.
+	Course: https://www.udemy.com/course/advanced-css-and-sass
+	Author: Jonas Schmedtmann
+
+4. **JavaScript (Front-End)** console.log('Course Finished');
+   Core language for web development; forms the basis for many other technologies.
+	Course: https://www.udemy.com/course/the-complete-javascript-course
+	Author: Jonas Schmedtmann
+
+5. **jQuery (Front-End)** $(function() { console.log('Course Is Finished') });
+   JavaScript library that simplifies DOM manipulation and event handling.
+    	Course: https://www.udemy.com/course/jquery-tutorial
+    	Author: Joe Parys, Peter Sommerhoff
+
+6. **Tailwind CSS (Front-End)**
+   Utility-first CSS framework; speeds up styling with predefined classes.
+    	Course: https://www.udemy.com/course/tailwind-from-scratch
+    	Author: Brad Traversy
+
+7. **Python (Back-End)**
+   Beginner-friendly programming language; versatile for various applications.
+    	Course: https://www.udemy.com/course/100-days-of-code
+    	Author: Dr. Angela Yu
+
+8. **TypeScript (Front-End/Back-End)**
+   Superset of JavaScript adding static typing; improves code quality and maintainability.
+    	Course:
+    	Author:
+
+9. **Node.js (Back-End)**
+   JavaScript runtime environment for server-side development; leverages existing JS knowledge.
+    	Course:
+    	Author:
+
+10. **Express.js (Frameworks)**
+    Minimalist web framework for Node.js; simplifies server-side application development.
+    	Course:
+    	Author:
+
+11. **MySQL (Databases)**
+    Popular relational database system; essential for storing structured data.
+    	Course:
+    	Author:
+
+12. **SQLite (Databases)**
+    Lightweight, file-based database; great for small to medium applications.
+    	Course:
+    	Author:
+
+13. **React (Front-End)**
+    Popular JavaScript library for building user interfaces; component-based architecture.
+    	Course:
+    	Author:
+
+14. **Vue.js (Front-End)**
+    Progressive JavaScript framework; easier learning curve compared to some other frameworks.
+    	Course:
+    	Author:
+
+15. **MongoDB (Databases)**
+    NoSQL database; ideal for handling unstructured data and scalable applications.
+    	Course:
+    	Author:
+
+16. **Firebase (Databases/Tools)**
+    Backend-as-a-Service platform; offers real-time databases and authentication services.
+    	Course:
+    	Author:
+
+17. **PHP (Back-End)**
+    Widely-used server-side scripting language; powers many websites and CMS platforms.
+    	Course:
+    	Author:
+
+18. **PostgreSQL (Databases)**
+    Advanced open-source relational database; offers robustness and extensive features.
+    	Course:
+    	Author:
+
+19. **Redis (Databases)**
+    In-memory data store; commonly used for caching and real-time applications.
+    	Course:
+    	Author:
+
+20. **Angular (Front-End)**
+    Comprehensive JavaScript framework; suitable for building complex, large-scale applications.
+    	Course:
+    	Author:
+
+21. **Django (Frameworks)**
+    High-level Python web framework; encourages rapid development and clean design.
+    	Course:
+    	Author:
+
+22. **Docker (Tools)**
+    Platform for containerizing applications; ensures consistency across environments.
+    	Course:
+    	Author:
+
+23. **Java (Back-End)**
+    Object-oriented programming language; extensively used in enterprise-level applications.
+    	Course:
+    	Author:
+
+24. **Spring Boot (Frameworks)**
+    Java-based framework; simplifies building stand-alone, production-ready applications.
+    	Course:
+    	Author:
+
+25. **C# (Back-End)**
+    Modern, object-oriented language developed by Microsoft; used for a variety of applications.
+    	Course:
+    	Author:
+
+26. **.NET Framework (Frameworks)**
+    Software framework for building and running applications on Windows; works seamlessly with C#.
+    	Course:
+    	Author:
+
+27. **Ruby (Back-End)**
+    Dynamic, open-source programming language; focuses on simplicity and productivity.
+    	Course:
+    	Author:
+
+28. **Ruby on Rails (Frameworks)**
+    Web application framework written in Ruby; emphasizes convention over configuration.
+    	Course:
+    	Author:
+
+29. **Kubernetes (Tools)**
+    System for automating deployment, scaling, and management of containerized applications.
+    	Course:
+    	Author:
+
+30. **C (Back-End)**
+    Procedural programming language; provides a foundation for understanding low-level computing concepts.
+    	Course:
+    	Author:
+
+31. **C++ (Back-End)**
+    Extension of C with object-oriented features; used for high-performance applications.
+    	Course:
+    	Author:
+
+32. **Jenkins (CI/CD)**
+    Open-source automation server; facilitates continuous integration and delivery.
+    	Course:
+    	Author:
+
+33. **CircleCI (CI/CD)**
+    Continuous integration and delivery platform; integrates well with various version control systems.
+    	Course:
+    	Author:
+
+34. **Travis CI (CI/CD)**
+    Hosted continuous integration service; commonly used for open-source projects.
+    	Course:
+    	Author:
+
+
+ChatGPT page:https://chatgpt.com/share/d26fb529-14a0-460b-aa48-067cc298cce5
